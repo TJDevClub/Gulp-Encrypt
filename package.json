@@ -1,0 +1,23 @@
+{
+  "name": "gulp-encrypt",
+  "version": "1.0.0",
+  "description": "Foray into encryption and Gulp!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJDevClub/Gulp-Encrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJDevClub/Gulp-Encrypt/issues"
+  },
+  "homepage": "https://github.com/TJDevClub/Gulp-Encrypt#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-simplecrypt": "0.0.1"
+  }
+}
